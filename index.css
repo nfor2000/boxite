@@ -17,4 +17,9 @@ body {
 	border: 4px dashed black;
 	border-radius: 10px;
 	box-sizing: border-box;
+	text-align: center;
+	line-height: 200px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 2rem;
 }
